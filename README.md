@@ -5,7 +5,7 @@
 requirements & Instruction to this project can be find in [requirement](https://docs.google.com/document/d/1Klsh-Y5ZQcDnYDPzD9AHAgv0z_GNGBbTPRaK4BqaOeU/edit) document file.
 
 <p align="center">
-  <img width="700" align="center" src="https://user-images.githubusercontent.com/9840435/60266022-72a82400-98e7-11e9-9958-f9004c2f97e1.gif" alt="demo"/>
+  <img width="700" align="center" src="https://github.com/usamahassan00015/ChatgptBotApi-Flask/blob/53916ae92f44eb2318dc75b3af32e963d4604880/Animation.gif" alt="demo"/>
 </p>
 
 <div align="center">
